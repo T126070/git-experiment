@@ -20,3 +20,4 @@ if __name__ == "__main__":
   print("2 * 4 =", multiply(2, 4))
   print("2 * 2 =", square(2))
   print("3 / 0 =", divide(3, 0))
+komrnt
